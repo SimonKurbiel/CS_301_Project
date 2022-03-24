@@ -5,12 +5,6 @@
 
 ### Company Name
 
-### Project Members
-**Full Name & Email:** First Last Email
-**Full Name & Email:** First Last Email
-**Full Name & Email:** First Last Email
-
-
 ##### Prepared For: Client Name
 *24 April, 2022*
 </div>
