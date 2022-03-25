@@ -1,11 +1,11 @@
 
 
 
-# Project Name
+# Project Name: Natural Language Processing with Disaster Tweets
 
-### Company Name
+### Company Name: Catastrophe INC.
 
-##### Prepared For: Client Name
+##### Prepared For: CS301
 *24 April, 2022*
 </div>
 
@@ -41,6 +41,7 @@ Below is an overview of the process and key milestones.
 
 
 ## Why Choose Our Company?
+
 
 
 
