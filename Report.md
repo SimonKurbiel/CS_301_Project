@@ -1,5 +1,12 @@
-### NFL Helmet-to-Helmet Hits
-## Authors: Austin Ignarra,
+# NFL Helmet-to-Helmet Hits
+
+## Authors
+
+| First Name        | Last Name |  Email |
+|-------------|---------------|-------------|
+| Simon | Kurbiel | sak74@njit.edu |
+| Austin | Ignarra  | ai37@njit.edu |
+| Cristhian | Molina  | cdm9@njit.edu |
 
 ## Abstract
 
