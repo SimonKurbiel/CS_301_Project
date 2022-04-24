@@ -1,4 +1,5 @@
 ### NFL Helmet-to-Helmet Hits
+## Authors: Austin Ignarra,
 
 ## Abstract
 
@@ -19,9 +20,6 @@ During these past couple of years, there have been a couple of approaches into d
 As for the data we are working with, everything is provided by Kaggle. We have folders containing videos of plays, and each play consists of two videos, one with a sideline view and one with an endzone view. We also have a folder containing images of every frame of the videos. We also have csv files containing the specific information to create our detection system. This information consists of labels which indicates the location of the helmets as well as allowing us to track these helmets throughout the duration of the play and more importantly indicating us when there has been an helmet collision. This will be useful as this information will be used to train our model.
 
 ## Methods
-
-(30%): Discuss your approach for solving the problems that you set up in the introduction. Why is your approach the right thing to do? Did you consider alternative approaches? You should demonstrate that you have applied ideas and skills built up during the quarter to tackling your problem of choice. It may be helpful to include figures, diagrams, or tables to describe your method or compare it with other methods.
-
 First we took the helmet visibilty into question.
 
 ![image](Images/helmet_visibility.JPG)
