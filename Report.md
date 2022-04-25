@@ -2,6 +2,8 @@
 
 **NoteBook**: [An Internal Link](NFL_Head_Impact.ipynb)
 
+**In case it doesn't work, here's colab link.**: [Colab Notebook](https://colab.research.google.com/drive/162q_Su7tzgFTwH7JNWoeNMSNCbuSDvYE?usp=sharing)
+
 ## Authors
 
 | First Name        | Last Name |  Email |
